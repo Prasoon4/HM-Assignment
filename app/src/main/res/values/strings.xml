@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">H&amp;M Assignment</string>
+    <string name="button_retry">Retry</string>">
+    <string name="button_retry_a11y">Retry loading products</string>">
+    <string name="button_scroll_up_a11y">Scroll back to top</string>">
+    <string name="no_products_message">No products found</string>">
+</resources>
